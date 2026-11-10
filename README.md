@@ -1,6 +1,6 @@
-# IpehPijet
+# liamassagesby
 
-Website statis untuk layanan pijat IpehPijet. `index.html` adalah halaman utama untuk hosting; `ipehpijat.html` dan `ipehchrome.html` disimpan sebagai salinan sumber.
+Website statis Lia Massage Surabaya. `index.html` adalah satu-satunya halaman yang dipakai untuk hosting; `ipehpijat.html` dan `ipehchrome.html` tetap disimpan sebagai versi alternatif dan tidak ikut di-deploy.
 
 ## Preview lokal
 
@@ -14,7 +14,7 @@ Buka `http://localhost:8000`.
 
 ## Deploy
 
-Folder ini dapat di-deploy langsung ke Vercel sebagai situs statis tanpa langkah build.
+Folder deploy Vercel berisi `index.html` dan aset yang dirujuk dari `assets/images/`, tanpa langkah build.
 
 ## Isi
 
