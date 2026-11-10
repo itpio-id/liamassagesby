@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="WhatsApp">
+  <defs>
+    <linearGradient id="green" x1="60" y1="48" x2="245" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#54D366"/>
+      <stop offset="1" stop-color="#18B43D"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="320" height="330" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#172a48" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <path filter="url(#shadow)" fill="#fff" d="M160 17C81 17 17 81 17 160c0 25 7 50 19 71L15 305l76-20c21 12 45 18 69 18 79 0 143-64 143-143S239 17 160 17Z"/>
+  <path fill="url(#green)" d="M160 40c-66 0-120 54-120 120 0 21 6 41 16 59l-10 42 44-12c19 12 43 19 70 19 66 0 120-54 120-120S226 40 160 40Z"/>
+  <path transform="translate(44.8 44.8) scale(.72)" fill="#fff" d="M112 88c-3-7-7-8-10-8h-8c-4 0-10 2-15 7-5 6-18 18-18 43 0 26 18 48 21 51 3 4 36 58 87 78 43 17 52 14 62 13 9-1 30-13 34-26 4-13 4-24 3-26s-4-3-10-6l-30-14c-4-2-8-3-11 3-4 6-14 19-18 23-3 4-6 4-11 2-5-3-23-9-44-27-16-14-28-32-31-38-3-5 0-8 2-11 2-2 5-6 8-9 3-3 4-5 6-8 2-4 1-7 0-10-1-2-8-18-11-25Z"/>
+</svg>
