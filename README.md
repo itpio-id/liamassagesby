@@ -22,3 +22,5 @@ Folder deploy Vercel berisi `index.html` dan aset yang dirujuk dari `assets/imag
 - `assets/source/` — file sumber aset
 - `PHOTO-CREDITS.md` — kredit dan lisensi foto
 - `ipehheadshot.jpeg`, `namecard.jpeg`, dan gambar di folder utama — aset tambahan proyek
+- `robots.txt`, `sitemap.xml`, dan `llms.txt` — aturan crawler dan discovery
+- `SEO-GEO-AUDIT.html` — temuan audit teknis serta copy profil direktori
